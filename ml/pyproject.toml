@@ -9,6 +9,7 @@ pandas = "^2.2.2"
 scikit-learn = "^1.5.1"
 seaborn = "^0.13.2"
 kaggle = "^1.6.17"
+pyarrow = "^17.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
